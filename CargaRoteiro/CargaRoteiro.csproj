@@ -51,6 +51,7 @@
     <Compile Include="DbContext\DbConnection.cs" />
     <Compile Include="DbContext\DbConnectionFactory.cs" />
     <Compile Include="DbContext\DbDataParameter.cs" />
+    <Compile Include="DbContext\DbDataReader.cs" />
     <Compile Include="OpEquipe.cs" />
     <Compile Include="OpEquipeSetorRoteiro.cs" />
     <Compile Include="Operacao.cs" />
